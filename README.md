@@ -16,4 +16,6 @@ In my free time you can find me biking, playing basketball, or at a local comedy
 
 Feel free to reach me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/frank-carusi-6b225b140/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Frank%20Carusi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/frank-carusi-6b225b140/)
+[![Email](https://img.shields.io/badge/Email-FrankCarusi-red?style=for-the-badge&logo=gmail)](mailto:frankcarusi.fc@gmail.com)
+
