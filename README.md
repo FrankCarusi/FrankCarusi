@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Welcome to my Page! My name is Frank Carusi and I am currently in my third year of the Honours Bachelor of Computer Science undergraduate degree at Sheridan College 🎓. My specialization is Cloud Computing ☁️. I am also working as a research assistant at the Karmy Pain Clnic where I am creating a pain detection solution. I am passionate about building scalable and efficient Cloud solutions as well as furthing my own learning and personal growth. I have a great interest in exploring the latest in Cloud technologies and have found this constantly evolving field of study very reqrding to learn more about. Currently I am focusing my studies on learning AWS, Cloud Infrastructure, and Virtualization.
+Welcome to my Page! My name is Frank Carusi and I am currently in my third year of the Honours Bachelor of Computer Science undergraduate degree at Sheridan College 🎓. My specialization is Cloud Computing ☁️. I am also working as a research assistant at the Karmy Pain Clnic where I am creating a pain detection solution. I am passionate about building scalable and efficient Cloud solutions as well as furthing my own learning and personal growth. I have a great interest in exploring the latest in Cloud technologies and have found this constantly evolving field of study very rewarding to learn more about. Currently I am focusing my studies on learning AWS, Cloud Infrastructure, and Virtualization.
 
 
 In my free time you can find me biking, playing basketball, or at a local comedy show.
